@@ -23,7 +23,7 @@ st.set_page_config(
 # API KEY
 # -------------------------------
 
-groq_api_key = st.secrets["GROQ_BEC_API.KEY"]
+groq_api_key = st.secrets["GROQ_BEC_API_KEY"]
 
 # -------------------------------
 # PERSONAS
